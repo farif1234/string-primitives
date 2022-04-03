@@ -6,7 +6,7 @@ Computer Architecture portfolio assignment. Utilizing low-level assembly code, t
 
 ## Demo
 
-Test
+![](Animation.gif)
 
 ## Tech
 
